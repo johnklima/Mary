@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{5d1da6f2-c0c2-4b98-929b-1f65699f4747}">
+		<property name="assetPath">
+			<value>43560__tams-kp__typewriter22.ogg</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>124.22675736961452</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{c3b239f7-fbdf-4cb3-80a9-235e43fdebdf}</destination>
+		</relationship>
+	</object>
+</objects>
